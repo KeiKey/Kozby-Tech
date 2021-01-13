@@ -142,7 +142,7 @@ body {
 }
 
 .left-heading.light .section-title {
-  color: var(--tertirary-color)fff;
+  color: var(--tertirary-color);
 }
 
 .left-heading .section-title {
@@ -169,7 +169,7 @@ body {
 }
 
 .center-heading.colored .section-title {
-  color: var(--tertirary-color)fff;
+  color: var(--tertirary-color);
 }
 
 .center-text {
@@ -742,7 +742,7 @@ features
 .features-small-item {
   cursor: pointer;
   display: block;
-  background: var(--tertirary-color)FFF;
+  background: var(--tertirary-color);
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.10);
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
@@ -1184,7 +1184,7 @@ pricing
 ---------------------------------------------
 */
 .pricing-item {
-  background: var(--tertirary-color)FFF;
+  background: var(--tertirary-color);
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.1);
   border-radius: 20px;
   margin-bottom: 30px;
