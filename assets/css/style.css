@@ -313,8 +313,9 @@ body {
 
 a.main-button-slider {
   font-size: 13px;
-  border-radius: 20px;
-  padding: 12px 20px;
+  line-height: 20px;
+  border-radius: 25px;
+  padding: 15px 30px;
   background-color: var(--secondary-color);
   text-transform: uppercase;
   color: var(--tertirary-color);
@@ -332,8 +333,9 @@ a.main-button-slider:hover {
 a.main-button,
 button.main-button {
   font-size: 13px;
+  line-height: 20px;
   border-radius: 25px;
-  padding: 12px 20px;
+  padding: 15px 30px;
   background-color: var(--primary-color);
   text-transform: uppercase;
   color: var(--tertirary-color);
