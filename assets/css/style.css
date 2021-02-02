@@ -892,10 +892,6 @@ parallax & home separator
   font-size: 15px;
 }
 
-.mini .mini-content .info p span {
-  text-decoration: underline;
-}
-
 .mini .mini-content .mini-box {
   display: block;
   background: var(--tertirary-color);
@@ -934,14 +930,6 @@ parallax & home separator
   display: block;
   font-size: 20px;
   margin-bottom: 15px;
-}
-
-.mini .mini-content .mini-box span {
-  display: block;
-  font-weight: 400;
-  font-size: 14px;
-  color: #777;
-  letter-spacing: .75px;
 }
 
 .mini .mini-content .mini-box strong {
